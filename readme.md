@@ -1,4 +1,4 @@
 ## Projeto-Dio: Piano
 
-![piano](piano.png)
+![piano](./image/piano.png)
 
